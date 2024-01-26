@@ -27,3 +27,6 @@ En archivo dataset.csv es un conjunto de datos que ofrece una visión integral d
 - __Weight__: Peso del producto.
 - __Creation Date__: La fecha en que se agregó el producto a Amazon.
 
+---
+
+El archivo `Proyecto_Final_R-ipynb` contiene el análisis principal mientras que el archivo `Proyecto_Final_R_Emp.ipynb` contiene el análisis particular hecho con python para categorizar los productos.
